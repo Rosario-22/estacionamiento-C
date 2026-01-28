@@ -19,7 +19,7 @@ Tecnologías
 - Compilado en Zinjai
 
 Ejecución
-Compilar y ejecutar `estacionamiento.c`.
+Compilar y ejecutar "estacionamiento.c".
 
 Mejoras futuras
 - Persistencia en archivos
